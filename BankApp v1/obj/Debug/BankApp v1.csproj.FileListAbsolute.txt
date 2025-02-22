@@ -1,0 +1,10 @@
+C:\Users\rosha\OneDrive\Documents\My Practicals\C#\BankApp v1\BankApp v1\bin\Debug\BankApp v1.exe.config
+C:\Users\rosha\OneDrive\Documents\My Practicals\C#\BankApp v1\BankApp v1\bin\Debug\BankApp v1.exe
+C:\Users\rosha\OneDrive\Documents\My Practicals\C#\BankApp v1\BankApp v1\bin\Debug\BankApp v1.pdb
+C:\Users\rosha\OneDrive\Documents\My Practicals\C#\BankApp v1\BankApp v1\obj\Debug\BankApp v1.csproj.AssemblyReference.cache
+C:\Users\rosha\OneDrive\Documents\My Practicals\C#\BankApp v1\BankApp v1\obj\Debug\BankApp_v1.Form1.resources
+C:\Users\rosha\OneDrive\Documents\My Practicals\C#\BankApp v1\BankApp v1\obj\Debug\BankApp_v1.Properties.Resources.resources
+C:\Users\rosha\OneDrive\Documents\My Practicals\C#\BankApp v1\BankApp v1\obj\Debug\BankApp v1.csproj.GenerateResource.cache
+C:\Users\rosha\OneDrive\Documents\My Practicals\C#\BankApp v1\BankApp v1\obj\Debug\BankApp v1.csproj.CoreCompileInputs.cache
+C:\Users\rosha\OneDrive\Documents\My Practicals\C#\BankApp v1\BankApp v1\obj\Debug\BankApp v1.exe
+C:\Users\rosha\OneDrive\Documents\My Practicals\C#\BankApp v1\BankApp v1\obj\Debug\BankApp v1.pdb
