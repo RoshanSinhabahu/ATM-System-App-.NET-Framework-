@@ -8,6 +8,8 @@ This Bank System application is a simple console-based program developed using C
 <li><strong>Abstraction</strong>: Abstract classes or interfaces to define common behaviors for account management.</li>
 </ul>
 The project operates <strong>without database connectivity</strong>, relying on in-memory data structures to manage account information during runtime.<br><br>
+<img width="600px" src="https://github.com/user-attachments/assets/154b06fe-4660-4e39-a343-bbb0b88fc4ff" alt="Screenshot 01"><br>
+<img width="600px" src="https://github.com/user-attachments/assets/a5b426da-878b-4d51-ab63-d027d551c692" alt="Screenshot 02">
 
 
 <i>I learned to build this system from the Code Beauty YouTube channel. Feel free to use my code in your projects if you need it!</i>
