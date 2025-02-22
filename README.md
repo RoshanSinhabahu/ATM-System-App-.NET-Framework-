@@ -1,5 +1,5 @@
-<h1>Bank System App (C# - .NET Framework)🚀</h1>
-This Bank System application is a simple console-based program developed using C# and the .NET Framework, focusing on implementing Object-Oriented Programming (OOP) concepts. The system allows basic banking operations such as creating accounts, depositing, withdrawing, and viewing account details.<br><br>
+<h1>ATM System App (C# - .NET Framework)🚀</h1>
+This Bank System application is a simple windows form application developed using C# and the .NET Framework, focusing on implementing Object-Oriented Programming (OOP) concepts. The system allows basic banking operations such as creating accounts, depositing, withdrawing, and viewing account details.<br><br>
 
 <ul>
 <li><strong>Encapsulation</strong>: Secure handling of account data through private fields and public methods.</li>
