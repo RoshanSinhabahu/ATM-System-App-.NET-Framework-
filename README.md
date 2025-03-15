@@ -12,4 +12,4 @@ The project operates <strong>without database connectivity</strong>, relying on 
 <img width="600px" src="https://github.com/user-attachments/assets/a5b426da-878b-4d51-ab63-d027d551c692" alt="Screenshot 02">
 
 
-<i>I learned to build this system from the Code Beauty YouTube channel. Feel free to use my code in your projects if you need it!</i>
+<i>I learned to build this system using online resources. Feel free to use my code in your projects if you'd like.</i>
